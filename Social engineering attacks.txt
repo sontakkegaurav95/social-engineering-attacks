@@ -1,0 +1,68 @@
+🔐 Social Engineering Attacks
+
+📌 Definition
+
+Social engineering attacks are cyberattacks that manipulate people into revealing confidential information instead of exploiting technical vulnerabilities .In this instead of hacking systems, attackers hack human behavior.
+
+🧠 Key Idea
+
+“The weakest link in security is often the human.”
+
+Attackers use: Trust,Fear, Urgency,Curiosity to trick victims.
+
+⚠️ Types of Social Engineering Attacks
+1. Phishing
+Fake emails/messages pretending to be trusted sources
+Victim clicks malicious links and enters credentials
+
+Example: Fake bank email asking for login details
+
+2. Pre-texting
+Attacker creates a fake identity Gains victim’s trust to extract information
+
+Example: Fake IT support asking for password
+
+3. Baiting
+Luring victims using tempting offers Malware spreads through downloads or USB devices
+
+Example: Free movie download with hidden virus
+
+4. Tailgating (Piggybacking)
+Unauthorized person follows an authorized user into restricted area .
+
+Example: Someone entering office without ID
+
+⚙️ How Social Engineering Works
+Information gathering (about target)
+Building trust
+Exploiting emotions
+Extracting sensitive data
+
+💥 Impact of Social Engineering
+
+🔓 Unauthorized access
+💳 Financial loss
+🕵️ Identity theft
+📉 Reputation damage
+🦠 Malware infection
+
+🌍 Real-World Examples
+ Google & Facebook Scam (2013–2015): Lost $100 million due to phishing
+ Twitter Hack (2020): Attackers used social engineering to access internal tools
+
+🛡️ Prevention Techniques
+
+🔐 Technical Measures
+Use Antivirus & Firewall
+Enable Multi-Factor Authentication (MFA)
+Email spam filters
+
+👨‍🏫 User Awareness
+Do not click unknown links
+Verify sender identity
+Avoid sharing sensitive information
+
+🏢 Organizational Measures
+Security training programs
+Strong access control
+Regular audits
