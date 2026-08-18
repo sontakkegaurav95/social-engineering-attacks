@@ -143,7 +143,7 @@ Social engineering attacks are highly effective because they target human behavi
 ---
 
 ## 👨‍💻 Author
-** Sontakke Gaurav **  
+** Sontakke Gaurav  **  
 
 ## ✅ Status
 ✔️ Completed (Internship Task Submission)
